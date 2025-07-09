@@ -1,4 +1,4 @@
-# 🌟 BODY 𝐔𝐋𝐓𝐑𝐀🌟  
+# 🌟 BODY45 ultra 🌟
 🔥 **El bot definitivo para grupos de WhatsApp con sistema RPG, administración avanzada y más.**  
 
 ≪━─━─━─━─◈─━─━─━─━≫  
@@ -13,7 +13,7 @@
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
 ≪━─━─━─━─◈─━─━─━─━≫  
 
-## 🚀 **¿Qué es Azura Ultra?**  
+## 🚀 **¿Qué es body Ultra?**  
 **Azura Ultra** es un bot **multifuncional y poderoso** diseñado para mejorar la experiencia en tus grupos de WhatsApp.  
 
 Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos**, **descargas**, inteligencia integrada y mucho más.  
@@ -66,8 +66,8 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 - 👑 **Russell XZ** (Creador de Azura Ultra)  
 
 🤖 **𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫𝐞𝐬:**  
-- 🔹 [DIEGO-OFC](https://github.com/DIEGO-OFC)  
-- 🔹 [Eliasar54](https://github.com/Eliasar54)  
+- 🔹 [Alextym-OFC]()  
+- 🔹 [vicimi-40]()  
 
 📢 ¡Gracias por apoyar el desarrollo de este poderoso bot!  
 
@@ -77,7 +77,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 - Abre un Issue en GitHub  
 - Contáctanos por Sky Ultra Plus Hosting  
 
-🚀 **¡Únete al futuro con Azura Ultra & Cortana y haz épico tu grupo de WhatsApp!**  
+🚀 **¡Únete al futuro con Body Ultra & Cortana y haz épico tu grupo de WhatsApp!**  
 
 ≪━─━─━─━─◈─━─━─━─━≫  
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
