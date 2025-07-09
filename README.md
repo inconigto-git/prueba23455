@@ -79,7 +79,7 @@ pkg update && pkg upgrade -y && pkg install nodejs git -y
 
 ## 2️⃣ Clona el repositorio desde GitHub
 ```bash
-git clone https://github.com/russellxz/AZURA-ULTRA-2.0-BOT.git
+git clone https://github.com/inconigto-git/prueba23455
 ```
 
 ## 3️⃣ Entra al directorio del bot
