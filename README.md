@@ -43,22 +43,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 
 ⊱⋅ ──────────── ⋅⊰  
 
-# ⚙️ **Optimizado para Sky Ultra Plus**  
-
-🌐 **Hosting oficial recomendado:**  
-
-<p align="center">
-  <a href="https://panel.skyultraplus.com">
-    <img src="https://cdn.dorratz.com/files/1742239358886.jpg" alt="Sky Ultra Plus Hosting" width="500"/>
-  </a>
-</p>
-
-📌 Algunas funciones requieren Sky Ultra Plus para funcionar correctamente.  
-🔗 Accede al panel:  
-🔹 [https://panel.skyultraplus.com](https://panel.skyultraplus.com)  
-🔹 [https://dash.skyultraplus.com](https://dash.skyultraplus.com)  
-
-⊱⋅ ──────────── ⋅⊰  
+ ⊱⋅ ──────────── ⋅⊰  
 
 ## 👑 **Creador y colaboradores**  
 
