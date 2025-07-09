@@ -84,7 +84,7 @@ git clone https://github.com/inconigto-git/prueba23455
 
 ## 3️⃣ Entra al directorio del bot
 ```bash
-cd AZURA-ULTRA-2.0-BOT
+cd prueba23455
 ```
 
 ## 4️⃣ Instala módulos necesarios
